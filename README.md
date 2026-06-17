@@ -6,6 +6,8 @@ A modern interactive application dependency graph builder built with React, Type
 
 App Graph Builder visualizes service dependencies as an interactive node graph. Users can inspect services, update configurations, monitor runtime information, create new nodes, connect services, and manage graph topology through an intuitive dashboard interface.
 
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/a44646e4-53fc-4d9c-8f3e-83a0f5d7e9ba" />
+
 ## Features
 
 ### Graph Visualization
